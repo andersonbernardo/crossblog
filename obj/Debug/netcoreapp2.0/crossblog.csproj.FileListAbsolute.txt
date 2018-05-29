@@ -1,0 +1,10 @@
+C:\Projetos\crossover\crossblog\bin\Debug\netcoreapp2.0\crossblog.deps.json
+C:\Projetos\crossover\crossblog\bin\Debug\netcoreapp2.0\crossblog.runtimeconfig.json
+C:\Projetos\crossover\crossblog\bin\Debug\netcoreapp2.0\crossblog.runtimeconfig.dev.json
+C:\Projetos\crossover\crossblog\bin\Debug\netcoreapp2.0\crossblog.dll
+C:\Projetos\crossover\crossblog\bin\Debug\netcoreapp2.0\crossblog.pdb
+C:\Projetos\crossover\crossblog\obj\Debug\netcoreapp2.0\crossblog.csproj.CoreCompileInputs.cache
+C:\Projetos\crossover\crossblog\obj\Debug\netcoreapp2.0\crossblog.AssemblyInfoInputs.cache
+C:\Projetos\crossover\crossblog\obj\Debug\netcoreapp2.0\crossblog.AssemblyInfo.cs
+C:\Projetos\crossover\crossblog\obj\Debug\netcoreapp2.0\crossblog.dll
+C:\Projetos\crossover\crossblog\obj\Debug\netcoreapp2.0\crossblog.pdb
